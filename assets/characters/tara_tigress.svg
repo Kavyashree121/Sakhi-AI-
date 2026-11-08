@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" width="240" height="320" role="img" aria-labelledby="t d">
+<title id="t">Tara the Tigress</title>
+<desc id="d">A brave tigress woman in a maroon kurta and red dupatta with a whistle, holding up a red SOS button.</desc>
+<ellipse cx="120" cy="304" rx="64" ry="8" fill="#000" opacity=".12"/>
+
+<rect x="100" y="240" width="16" height="56" rx="8" fill="#f08c2e"/>
+<rect x="124" y="240" width="16" height="56" rx="8" fill="#f08c2e"/>
+<ellipse cx="106" cy="297" rx="15" ry="6" fill="#3e2723"/>
+<ellipse cx="134" cy="297" rx="15" ry="6" fill="#3e2723"/>
+
+<rect x="99" y="236" width="18" height="52" rx="7" fill="#2b2d42"/>
+<rect x="123" y="236" width="18" height="52" rx="7" fill="#2b2d42"/>
+<path d="M86 150 Q120 138 154 150 L164 252 Q120 262 76 252 Z" fill="#7b1e3a"/>
+<path d="M78 244 Q120 254 162 244 L164 252 Q120 262 76 252 Z" fill="#ffd54f"/>
+<path d="M108 146 L120 170 L132 146" fill="none" stroke="#ffd54f" stroke-width="5" stroke-linejoin="round"/>
+<line x1="120" y1="170" x2="120" y2="210" stroke="#ffd54f" stroke-width="2" stroke-dasharray="2 7" stroke-linecap="round"/>
+
+<path d="M92 150 Q120 176 148 150 L158 158 Q120 194 82 158 Z" fill="#d62839"/>
+<path d="M150 154 Q166 200 160 246 L148 246 Q152 204 142 160 Z" fill="#d62839"/>
+
+<path d="M120 150 L120 176" stroke="#ffd54f" stroke-width="2"/>
+<rect x="112" y="176" width="18" height="10" rx="5" fill="#ffd54f"/>
+
+<path d="M150 160 Q162 186 162 196" fill="none" stroke="#7b1e3a" stroke-width="20" stroke-linecap="round"/>
+<path d="M162 196 L160 226" fill="none" stroke="#f08c2e" stroke-width="13" stroke-linecap="round"/>
+<circle cx="160" cy="226" r="10" fill="#f08c2e"/>
+
+<path d="M90 160 Q68 130 68 140" fill="none" stroke="#7b1e3a" stroke-width="20" stroke-linecap="round"/>
+<path d="M68 140 L60 118" fill="none" stroke="#f08c2e" stroke-width="13" stroke-linecap="round"/>
+<circle cx="60" cy="118" r="10" fill="#f08c2e"/>
+
+<circle cx="60" cy="94" r="18" fill="#d62839" stroke="#fff" stroke-width="3"/>
+<text x="60" y="99" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">SOS</text>
+
+<circle cx="84" cy="56" r="15" fill="#f08c2e"/><circle cx="156" cy="56" r="15" fill="#f08c2e"/>
+<circle cx="84" cy="56" r="8" fill="#3b2a20"/><circle cx="156" cy="56" r="8" fill="#3b2a20"/>
+<circle cx="120" cy="92" r="46" fill="#f08c2e"/>
+<path d="M120 46 l-6 14 h12 Z M106 50 l-2 14 l8 -10 Z M134 50 l2 14 l-8 -10 Z" fill="#3b2a20"/>
+<path d="M74 84 l14 4 l-14 6 Z M166 84 l-14 4 l14 6 Z M76 104 l12 0 l-10 6 Z M164 104 l-12 0 l10 6 Z" fill="#3b2a20"/>
+<ellipse cx="120" cy="114" rx="28" ry="20" fill="#fff6ea"/>
+<ellipse cx="101" cy="88" rx="7" ry="8" fill="#fff"/>
+<circle cx="102" cy="89" r="4.5" fill="#3b2a20"/>
+<circle cx="103.5" cy="86.5" r="1.6" fill="#fff"/>
+<ellipse cx="139" cy="88" rx="7" ry="8" fill="#fff"/>
+<circle cx="140" cy="89" r="4.5" fill="#3b2a20"/>
+<circle cx="141.5" cy="86.5" r="1.6" fill="#fff"/>
+<path d="M113 104 h14 l-7 7 Z" fill="#e57399"/>
+<path d="M120 111 v4 M120 115 q-6 6 -11 1 M120 115 q6 6 11 1" fill="none" stroke="#3b2a20" stroke-width="2.5" stroke-linecap="round"/>
+<ellipse cx="86" cy="106" rx="7" ry="4.5" fill="#f28b82" opacity=".55"/>
+<ellipse cx="154" cy="106" rx="7" ry="4.5" fill="#f28b82" opacity=".55"/>
+<circle cx="120" cy="72" r="3.2" fill="#d62839"/>
+</svg>
