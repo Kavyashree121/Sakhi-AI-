@@ -1,75 +1,75 @@
 1
-00:00:00,000 --> 00:00:03,000
+00:00:00,000 --> 00:00:06,473
 She walked 12 km just to ask one question:
 "Is this normal in pregnancy?"
 
 2
-00:00:03,000 --> 00:00:06,500
+00:00:06,473 --> 00:00:10,344
 For millions of village women,
 the nearest doctor is hours away.
 
 3
-00:00:06,500 --> 00:00:10,000
+00:00:10,344 --> 00:00:13,281
 The internet?
 You're lucky if there's even a signal.
 
 4
-00:00:10,000 --> 00:00:14,000
+00:00:13,281 --> 00:00:15,168
 That's why I built Sakhi,
 
 5
-00:00:14,000 --> 00:00:18,000
+00:00:15,168 --> 00:00:21,680
 an AI health friend that works offline,
 on basic phones, in 6 languages.
 
 6
-00:00:18,000 --> 00:00:22,000
+00:00:21,680 --> 00:00:25,022
 "Sakhi, my feet are swollen.
 What should I do?"
 
 7
-00:00:22,000 --> 00:00:27,000
+00:00:25,022 --> 00:00:31,831
 "Rest with your feet raised. If your face or hands
 also swell, or you have a headache, see a doctor right away."
 
 8
-00:00:27,000 --> 00:00:30,000
+00:00:31,831 --> 00:00:36,062
 Just speak. No typing. No English needed.
 
 9
-00:00:30,000 --> 00:00:32,500
+00:00:36,062 --> 00:00:37,808
 Symptom checker
 
 10
-00:00:32,500 --> 00:00:35,000
+00:00:37,808 --> 00:00:39,453
 Pregnancy tracker
 
 11
-00:00:35,000 --> 00:00:37,500
+00:00:39,453 --> 00:00:40,989
 Nearest hospital
 
 12
-00:00:37,500 --> 00:00:40,000
+00:00:40,989 --> 00:00:42,476
 Nutrition scanner
 
 13
-00:00:40,000 --> 00:00:42,000
+00:00:42,476 --> 00:00:45,196
 SOS: help in one tap
 
 14
-00:00:42,000 --> 00:00:46,000
+00:00:45,196 --> 00:00:46,405
 "Sakhi" means friend.
 
 15
-00:00:46,000 --> 00:00:52,000
+00:00:46,405 --> 00:00:52,338
 Every woman needs a friend who knows about health,
 day or night, even without a signal.
 
 16
-00:00:52,000 --> 00:00:56,000
+00:00:52,338 --> 00:00:56,800
 Know someone who needs Sakhi?
 Send them this video.
 
 17
-00:00:56,000 --> 00:01:00,000
+00:00:56,800 --> 00:01:00,000
 Follow to watch this journey 💛
